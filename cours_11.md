@@ -8,8 +8,6 @@
 *
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
-
 * L'audio: Mon microphone captait trop de bruit (fan, souris, clavier) et il y avait trop de variation de son entre ma voix, le son avec le gif et l'outro.
   Pour mes prochaines présentations, je vais mieux égaliser le niveau de son de chacune de mes sources d'audio et configurer mon micro pour qu'il capte que   ma voix.
 

@@ -2,7 +2,6 @@
 ## Rétrospective de la présentation 2
 
 ### Points forts
-
 *
 
 *
@@ -16,4 +15,4 @@
 
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi? 
-Ma présentation préféré est 
+Ma présentation préféré est celle de Garo. 

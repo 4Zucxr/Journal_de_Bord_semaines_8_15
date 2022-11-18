@@ -4,4 +4,4 @@ Joindre des images de votre tempête d'idée et des esquisses de votre projet. E
 
 Brainstorm:
 Top 3 des entreprises préféré
-![join]https://github.com/Flora0510/Journal_de_Bord_semaine_8_15/main/Images/Carteheuristique.jpg
+![Carte Heuristique]https://github.com/Flora0510/Journal_de_Bord_semaine_8_15/main/Images/Carteheuristique.jpg

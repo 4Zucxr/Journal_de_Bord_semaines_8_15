@@ -1,8 +1,9 @@
 # Cours 12
 ## Préparation de la présentation 3 
 Joindre des images de votre tempête d'idée et des esquisses de votre projet. Expliquer en 2 à 3 lignes votre projet. 
+Mon projet est un jeux vidéo mixte de Fall Guys, Overwatch, Fortnite et COD. De base, il s'agit d'un battle royale (dernier survivant sur 100 joueurs)
+ dans un monde post-apocalyptique avec des personnages "cartoony" pour faire contraste. Imaginer Overwatch, mais dans une zone de guerre active avec des zombies qui attaque les joueurs.
 
-Brainstorm:
-Top 3 des entreprises préféré
 
-*![Carte Heuristique](https://github.com/4Zucxr/Journal_de_Bord_semaines_8_15/blob/main/Images/heuristique.png)
+![Carte Heuristique](https://github.com/4Zucxr/Journal_de_Bord_semaines_8_15/blob/main/Images/heuristique.PNG)
+![Brainstorm](https://github.com/4Zucxr/Journal_de_Bord_semaines_8_15/blob/main/Images/tempete%20id%C3%A9e.PNG)

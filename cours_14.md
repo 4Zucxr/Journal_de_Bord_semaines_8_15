@@ -3,7 +3,7 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+C'est un champ de bataille dans un univers réaliste avec une invasion infernale. 
 
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 

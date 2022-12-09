@@ -1,6 +1,5 @@
 # Cours 12
 ## Préparation de la présentation 3 
-Joindre des images de votre tempête d'idée et des esquisses de votre projet. Expliquer en 2 à 3 lignes votre projet. 
 Mon projet est un jeux vidéo mixte de Fall Guys, Overwatch, Fortnite et COD. De base, il s'agit d'un battle royale (dernier survivant sur 100 joueurs)
  dans un monde post-apocalyptique avec des personnages "cartoony" pour faire contraste, mais il y a aussi d'autres mini-jeux plus "family-friendly". Imaginer Overwatch, mais dans une zone de guerre active avec des zombies qui attaque les joueurs.
 
